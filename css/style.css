@@ -31,11 +31,21 @@
 }
 
 .mainVisual .txCont .tit{
+
 	font-size:72px;
 	color:#fff;
 	font-family: 'GmarketSansBold';
 	line-height:82px;
 }
+
+
+.titGumi{
+    font-size:80px;
+    color:#002147;
+    -webkit-text-stroke: 2px #3CB043;
+    font-weight: 800;
+}
+
 
 .mainVisual .txCont .subTit{
 	font-size:36px;
